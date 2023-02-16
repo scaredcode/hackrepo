@@ -1,0 +1,227 @@
+Package: autosign
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Utilities
+Maintainer: Nebula <me@itsnebula.net>
+Depends: ldid, sed, file, mawk | gawk, firmware (>= 15.0)
+Filename: ./pool/iphoneos-arm/autosign_1.0.2_iphoneos-arm.deb
+Size: 1728
+MD5sum: 3e1eec23424fb89a8ff2162d569261fc
+SHA1: 1fecdf0da927a7a5555d9ec451af0d8e224c1fff
+SHA256: 8bb4f7e5bcffbc41946a4b1c739cfef8e3d3c83216a2815272ca5a5f09a41439
+SHA512: 94ab60757ba7f517b3b08637130d6d5f35a7d641955a718a2660d8b16c1f3bd51e2e7d06936386bd6fdbe67f4abcba8638d9ff48a48c30c4800762b3253c3967
+Description: Automatically signs binaries when installed with dpkg/apt. In Sileo, packages may appear as they are stuck at Queued, but you should wait, as AutoSign is processing the deb.
+Name: AutoSign
+Author: Nebula <me@itsnebula.net>, guacaplushy, woofy <admin@kristen.lc>
+Icon: https://cdn.discordapp.com/attachments/1028398976640229380/1051537598046281859/Frame_19.png
+
+Package: com.leontap.free
+Architecture: iphoneos-arm
+Version: 0.22.2
+Section: Tweaks
+Maintainer: ontrey228
+Installed-Size: 904
+Depends: mobilesubstrate
+Filename: ./pool/iphoneos-arm/com.leontap.free_0.22.2_iphoneos-arm.deb
+Size: 323874
+MD5sum: 7b5eed561e70c54f35e97aaca1329d6d
+SHA1: c2eed4ccb8c7e62c483f837cf7f2e2862d71f07a
+SHA256: 6ad54302c35cc3e1b664ac03e6d20658760b25f709f21393bbbf1f3123b2ab43
+SHA512: 32ebff64431898132aaa9a4f9806b5d5c344c9df1a727ab02c0ed76496afedb4d81001c04bbbd30e8c1471ad917493251dc8f6bf3d0b2bebf0498d71b94982f7
+Homepage: t.me/leon_tap
+Description: Standoff 2 Free
+Name: Standoff 2 Free
+Author: ontrey228
+
+Package: me.nebula.filzafixer
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Utilities
+Maintainer: Nebula <me@itsnebula.net>
+Depends: ldid
+Filename: ./pool/iphoneos-arm/me.nebula.filzafixer_1.0_iphoneos-arm.deb
+Size: 832
+MD5sum: 81c799289b8ed794b018df80bc8d6f62
+SHA1: c9723007fa5a3a424d3443161b94efc2da99d568
+SHA256: 592f4d0dc74deafe5bef7223bc3360329734105a0a41f584a81efb1f2f6eb5d7
+SHA512: 963ca950d07e5335a8b93e3a9a8d3d9cdb8455858e28e80b14a9ad8f517bc719748d2fb3a57d152c2cd8b95007239e1827fc4d154e43ac4a26666f0ac855b1e6
+Description: Fixes Filza, so it opens and dpkg doesn't complain. Make sure it's installed before installing this.
+Name: FilzaFixer
+Author: Nebula <me@itsnebula.net>
+Icon: http://www.tigisoftware.com/cydia/CydiaIcon.png
+
+Package: org.swift.libswift
+Architecture: iphoneos-arm
+Version: 5.0-electra2
+Section: Development
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./pool/iphoneos-arm/org.swift.libswift_5.0-electra2_iphoneos-arm.deb
+Size: 23330860
+MD5sum: 41d4fb6b08e22467836a200d6bf8db9c
+SHA1: 020e2926035d63cdb59e62b8d6a63cee88f0a14f
+SHA256: 07adbccbde8682adb44e8dcf0bdd6bef5c909d879ca654e6533f8a52f1884ced
+SHA512: e6fd9eac7836dbdc2d9fceb12849c0a5f4a94fabf114e4e486e75449c0c3e0603f023be5ff2c53c41c6813056868fb61a646dd6142db4bf140ac11e9a5daeda1
+Description: Swift runtime for iOS
+Tag: purpose::extension, compatible::ios12
+Name: libswift (stable)
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.swift.libswift
+Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
+dev: kabiroberai
+
+Package: ws.hbang.newterm2
+Architecture: iphoneos-arm
+Version: 2.5-100
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 6664
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8, system-cmds (>= 880.60.2)
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./pool/iphoneos-arm/ws.hbang.newterm2_2.5-100.deb
+Size: 2147050
+MD5sum: 0c09dd7d1d9f1cc522ca56158aecad83
+SHA1: 571751464d1bb14e61e8c31ac42c3647e937f831
+SHA256: bcdd43be87bc94aadee6841cfaa590fdeca4dee596d343496b2fdcde3e7845f6
+SHA512: ac66043683d3e9a8ec4f7bd62716127c06d0c4359cb9de4ae8f08bfdc22796522d32a3de783f3ca88afdcea161f6a10ab9864287723ddb517df931d4b0604f5d
+Description: A powerful terminal app for iOS
+Tag: compatible_min::ios10.0
+Name: NewTerm 2
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Depiction: https://chariz.com/get/newterm
+Support: https://hashbang.productions/support/
+
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Applications
+Maintainer: opa334
+Filename: ./pool/iphoneos-arm64/com.opa334.trollstorehelper_1.1.1_iphoneos-arm64.deb
+Size: 211760
+MD5sum: 7dd8638de97986c6f2483946c3e05a87
+SHA1: 1a84ab77b8b1840edec925f70587e3bc976d9220
+SHA256: 290dbbe5c98bc794506c1a49bf8c504c38b0a6ebccf133cf408cce766953fcc8
+SHA512: 38efa369223ff6101a61fe9edc6207d9777f8bb7caf4389115986035c978034feb6346c7f7a458142b827769f5381a589b043f34178703acdcd4c0e58caa8020
+Description: Helper utility to install and manage TrollStore!
+Name: TrollStore Helper
+Author: opa334
+
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Applications
+Maintainer: opa334
+Installed-Size: 616
+Filename: ./pool/iphoneos-arm64/com.opa334.trollstorehelper_1.1_iphoneos-arm64.deb
+Size: 211058
+MD5sum: 2d2114be92ccf6a5dd6c746f38eb5337
+SHA1: 6e07f2857dd30e9306533b7aad19ac1a677ec1a7
+SHA256: c80b5801d2269c1b1384b47876745f060f6c1c13a24fe0bd5c10e0e0c6642811
+SHA512: 859ad64ae4d035d4b9eb43248431355d5fe036c8792b12a04abc07de1b628c552d663b27d5eea96f4ca754f76958c430edb56deadfb0928298a7d404ee72fd08
+Description: Helper utility to install and manage TrollStore!
+Name: TrollStore Helper
+Author: opa334
+
+Package: ellekit
+Architecture: iphoneos-arm64
+Version: 0.1.31.gce07f57.dirty
+Priority: optional
+Section: Tweak Injection
+Maintainer: Mineek <mineek@mineek.nl>
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Conflicts: cy+cpu.arm64e, com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, ellekit-debug, ellekit-logging
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate, ellekit-debug, ellekit-logging
+Filename: ./pool/iphoneos-arm64/ellekit_0.1.31_iphoneos-arm64.deb
+Size: 553890
+MD5sum: 5a681b803c048ccf52cabf63e1b50e12
+SHA1: 800864db5665bfcbc5fc120dd9c043c06251032a
+SHA256: 170fc834256e53e8808a8f67ff576083eadfbd89d7ba987a9569cae7dd59bec2
+SHA512: fe24081941c498b533a54eda01d5c15b9bd8560e39ae8da85b4c67e315e19c5c29621d72c948b57ddac3b0c4a096cf3f2e42316185cb2c0587a57c6f70e65b9a
+Description: ElleKit tweak injection libraries and loaderInstalled-Size: 1716
+Name: ElleKit (Beta)
+Author: Evelyn
+
+Package: ellekit
+Architecture: iphoneos-arm64
+Version: 0.2
+Priority: optional
+Section: Tweak Injection
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 1452
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Depends: libiosexec1 (>= 1.2.2)
+Conflicts: cy+cpu.arm64e, com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Filename: ./pool/iphoneos-arm64/ellekit_0.2_iphoneos-arm64.deb
+Size: 223612
+MD5sum: 64bd0e8ff8fa55dcb6d7cfafb6da4179
+SHA1: 03dc4480bddbb3cb646fd9d92cd2b6dae1a668b3
+SHA256: 5cdc2ebb1bc337aeb3557b88ade8ee69cead69f19b86a8f765431139dd8fe08c
+SHA512: 0cc009cc6ea02ea32fdf985ea3aee74cd973db657a8f44119180ef11bbcef67042f8163c678039afec0b32edf3b1aa3a46733d8881a85e3c59a2f880c57044e6
+Description: ElleKit tweak injection libraries and loader
+ Currently NO SAFE MODE INCLUDED! Install at your own risk!
+ ElleKit tweak injection libraries and loader. Currently in beta,
+ does not currently include a LaunchDaemon.
+Name: ElleKit (Beta)
+Author: Evelyn
+
+Package: preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.2.6
+Section: System
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./pool/iphoneos-arm64/preferenceloader_2.2.6_iphoneos-arm64.deb
+Size: 11042
+MD5sum: 69cb2db3022a09fd024d9ea581bd147e
+SHA1: ae78786b17e9097f49fa977d82b4771d9cfd8571
+SHA256: 7be7f1e9ba9de8445d9cae0c068864a69423dfdd6135a0ba7a76a443e7aebce1
+SHA512: 1109d4bcb938a2dd3055f5992907c0cc96b008c1084c1aa379b740094dbae3274aa7c96ea730dd74d8d9ab557e1887ee393eb1bc0bace1b236faa6b998e1ba5e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Name: PreferenceLoader
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+
+Package: red.charlotte.cocha
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Maintainer: Charlotte
+Depends: mobilesubstrate
+Filename: ./pool/iphoneos-arm64/red.charlotte.cocha_0.0.1_iphoneos-arm64.deb
+Size: 80544
+MD5sum: 42bfe1d8ab55fd9ebe90bafebdea3028
+SHA1: 4a0b5d444dbb866aca32777420d491d1597428f8
+SHA256: 3a441848e0d4c9dc2ed3cd2905d00c2981e5bb22ede03f275451372ee691b023
+SHA512: 821ecbaf0b079acaa87758043e1c6e93097a29b57060fff82c808ad49fa61ab11f5df94bddc0f73b23cf2a72c5f7da04183e9c625e3a0c136e1d65248edb4858
+Author: Charlotte
+Name: Cocha
+
+Package: ws.hbang.newterm2
+Architecture: iphoneos-arm64
+Version: 2.99
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 1520
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, bash, coreutils, ncurses, system-cmds (>= 880.60.2)
+Recommends: iterm2-shell-integration, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./pool/iphoneos-arm64/ws.hbang.newterm2_2.99_iphoneos-arm64.deb
+Size: 505878
+MD5sum: b861d16ef57cc92c281c910b9cc60195
+SHA1: d52a49d100e853ab88ff2cf49280aff59b89a156
+SHA256: 88e1626eaa22797b25d836cdc97880d4f6bcef55a62d4ddd6f90028d11e75a82
+SHA512: 6ab5195f6452dcc92a46cf7117e1ee36a42604c66d4e0963323f9e1d7bf1b7fdd39fc5b3bef5867bbbcaf3eefeb662d29bec535393fc90d9779d93803e52918a
+Description: A powerful terminal app for iOS
+Tag: compatible_min::ios10.0
+Name: NewTerm 2
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Depiction: https://chariz.com/get/newterm
+Support: https://hashbang.productions/support/
+

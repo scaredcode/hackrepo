@@ -1,0 +1,62 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: palera1n-repo
+Components: main
+Date: Thu, 16 Feb 2023 14:55:20 +0000
+Description: palera1n's official repo
+Label: palera1n
+Origin: palera1n
+Suite: stable
+Version: 1.0
+MD5Sum:
+ cbe21758f210725651292a932b7185bb            10160 Packages
+ 097a4c1145887c3deed0578ffb1ca5e7             4207 Packages.bz2
+ 76c3af0f02f8de3de4b200073536d701             4176 Packages.gz
+ a205e9656e75b48d3a221cc4ff070719             5965 Packages.lz4
+ 789a3f70506fdebcbda0276cb5f93d1f             3992 Packages.lzma
+ 48bcb66c8bbacf43a37b61c9daeb29b9             4036 Packages.xz
+ 4a38a601ad3e5d4c619452c6b530c8fa             4052 Packages.zst
+ 6b1bfa0e496f67675fec694cfb9578b1              220 Release
+SHA1:
+ 93c76f9aaac3e59ff685f23e6855b22b6ca3df8e            10160 Packages
+ 22bf570fb4a4d997017dd048af559bd0aa13e20a             4207 Packages.bz2
+ 1fca9ebb890a02191bcbfa6bad13abae64f036f0             4176 Packages.gz
+ 0fbd3f4bc820da2c106bb1506aded09158380501             5965 Packages.lz4
+ f01e136391fdbd29ee7c93207e33b15680ae7993             3992 Packages.lzma
+ 96af53425e21690b34daf297c80663e536ff3446             4036 Packages.xz
+ 5d08c7a1abec420b07d706b04eb06c8a7cf4c0eb             4052 Packages.zst
+ f230057445bcb0803d2210dcea49ab8648ab9102              220 Release
+SHA256:
+ 6f6d2f9ff88f1889e98a06c057e30819070819787369df8c904ed5644d1aed6e            10160 Packages
+ 82339ddef541f884ee0d8241708914357d8ce4671ade66c4d0b58b4dde6c9fb9             4207 Packages.bz2
+ 366708d6a30f350cb7fcfe9444f02ac7edeeea139031df766b818c6f6dd96fe2             4176 Packages.gz
+ 20c30f4860457c0bbb68807cefeeb454b20aac667879c12ac5f9848ed37a78a4             5965 Packages.lz4
+ bfce767664952b86ae2b4f5afa0f69b90040b0f8d890bd35ff995fe04ff1a2c1             3992 Packages.lzma
+ 64298463d725b612c755a5b6f5596e3614a822b1095d13a7c95d5a3c8071124d             4036 Packages.xz
+ d8d75d2b45b68b9914b28fadb4805c5768d9585f23925cf21540871d3262a10f             4052 Packages.zst
+ 04dd4192c589b324aab3b05d5b1e814bcdc608c683eea77fffcbf3674ff6994c              220 Release
+SHA512:
+ 017b8cfc7ff5a7bbc04653a4478ae607cc91474e13b45e610b76fb19bc9a636c7cb5d99f401b667ece598578f7a6b24fd71436d75bcaa4e4ba8cb4133ed4cc58            10160 Packages
+ 8481f7c8934302ffe517cc60cc23871b5358ff34a7756c902dcaa7721fe71a8c6b631c32974047e51c9be7ebcfd0a961305e5e678b03efe566ea4b12d6547eae             4207 Packages.bz2
+ d9458dfdd262a5d716b454fa8e6d89d807fb3d5d8d61fda200b867ed3a94440fcea06f6308ba348f86aae20d521c30f27f495fe9794152201baf0e46a61b1252             4176 Packages.gz
+ 656aee9b3d2be589df30d52064814202d8fa29f8372348d595edd9bb081f9e00aa0cbb89ea4442d87bac0db96b228b63e1d53bc38a60352f54f122ad7943b6b6             5965 Packages.lz4
+ ce3ffaf18d4b39e62202be60323a30945748f06b43ec00ec795696c1cf84d982cbc0822162314f3713027d9b7cbda5b6b8cfcf0f6fe7fdfb4890ffb61ed41973             3992 Packages.lzma
+ db330055b706b8a581f474eee229bfbb6378746e75caf751ec926c60d0e349433d2f805a85951a95368eeef79feed0d7b618a902c0e16c9934cf85d0ae3da7a5             4036 Packages.xz
+ ffb4992852c6a256a4704bbac36a51914f439772c35a28d71cf19e00d0a9c6c5ded1de5635a7701835d3b176101e59007734edfe65db2dc39cb7a49867f2753e             4052 Packages.zst
+ cdb6827a7ead617556c4091a56df1a1ba61452a05d801149a95ab8a7f6c679b408e6e446f14461a700109e22f3514a79524c2f592f4d4cdb210589e03686776c              220 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEO7HGX03qFncwhSPHOwVG9rcONmEFAmPuQ9wACgkQOwVG9rcO
+NmFdpwwAmICsnkajK6AAwBZ9seup48fY/NGj+2gfi5W88ESh+CezJ8SzyoyZWKYh
+0kkqOCpS5vAqwHcjtSyoUDDPDlAG4tx5mLpiYHLjFzzVhNKVutsoCaAT+EZQx/Lq
+z3jQ4AGDmVjUROhWOY4BEnHqdyYLLrVdBF15ltc3ZFKJGb9QCmbcjH1eG/UiZDLt
+KJRJN2S8o+qioLhrqAXpfiBP/qXMY2K+lG/BB886bDMqHncNxztlO145NJwvtA4x
+5/tEuoBSeiXRmG0+w9t4BnorkAE2wll0diE/jSho8n5TRlfZtxPle+boLrUqEq2C
+/2xQdP2AghvcXciGUT1cibvY9iigje7eN3reU20LDJoplIJk+i5TTFkVckDUsOCq
+nrYCAF6SRkS/WqrOZPDXPoeIL8uCsEDWge/EN69c0SO9bK4MtryIWFCE+0g/xZew
+VZKuWVNYjWO40AE9y+SwkRl6/5ArUUCfmsfHks0UhHx5MoiKUJUoyOBgq9TdTs8X
+SHZX7lS6
+=POWO
+-----END PGP SIGNATURE-----
